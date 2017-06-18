@@ -1,0 +1,6 @@
+hash: ee550df83ea1109f19c7a140f72548ec3545122a44ff0ae9e55827b3fbc34ed1
+updated: 2017-06-16T08:44:50.142578499+09:00
+imports:
+- name: github.com/RangelReale/osin
+  version: 9496ce7f8bea311a97bbb27420b1766a728668c8
+testImports: []

@@ -1,0 +1,3 @@
+package: oauth2-server
+import:
+- package: github.com/RangelReale/osin
